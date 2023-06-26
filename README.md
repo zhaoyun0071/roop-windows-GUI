@@ -3,6 +3,8 @@
 
 B站介绍：https://www.bilibili.com/video/BV19M4y1E7pL
 
+ ![image](https://github.com/zhaoyun0071/roop-win-GUI/blob/main/ui.png)
+
 基于 https://github.com/s0md3v/roop ，用pyside2做了界面（持续更新），Windows 10、11 系统电脑可以，推荐英伟达2GB以上独显，30系列、20系列、10系列N卡最佳，AMD显卡不支持，支持CPU。
 
 
