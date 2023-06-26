@@ -1,7 +1,10 @@
 # roop-win-GUI
 什么环境不用配置，解压直接用的roop换脸工具
+
 B站介绍：https://www.bilibili.com/video/BV19M4y1E7pL
+
 基于 https://github.com/s0md3v/roop ，用pyside2做了界面（持续更新），Windows 10、11 系统电脑可以，推荐英伟达2GB以上独显，30系列、20系列、10系列N卡最佳，AMD显卡不支持，支持CPU。
+
 
 # V1.4下载（仅支持win10、win11）
 （1）百度网盘链接：https://pan.baidu.com/s/1uhpL3x-FWAqQBJ86C6WBvg 提取码：u6rn 
