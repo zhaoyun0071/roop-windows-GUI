@@ -5,20 +5,19 @@ B站介绍：https://www.bilibili.com/video/BV19M4y1E7pL
 
  ![image](https://github.com/zhaoyun0071/roop-win-GUI/blob/main/ui.png)
 
-基于 https://github.com/s0md3v/roop ，用pyside2做了界面（持续更新），Windows 10、11 系统电脑可以，推荐英伟达2GB以上独显，30系列、20系列、10系列N卡最佳，AMD显卡不支持，支持CPU。
+基于 https://github.com/s0md3v/roop。
 
+# V1.5下载
 
-# V1.4下载
-
-# win10、win11
+# win10、win11 V1.5
 
 （1）百度网盘链接：https://pan.baidu.com/s/1uhpL3x-FWAqQBJ86C6WBvg 提取码：u6rn 
 
-（2）天翼网盘链接：https://cloud.189.cn/t/VNzENrRBn2I3  访问码：4jb3
+（2）123网盘链接：https://www.123pan.com/s/H3GRVv-kjFLh.html 提取码:L2Ju
 
 （3）夸克网盘链接：https://pan.quark.cn/s/cadcdc64e501 提取码：ZUpY
 
-# mac苹果电脑版
+# mac苹果电脑版 V1.4
 
 （1）百度网盘链接：https://pan.baidu.com/s/122lA1xV4oipOBghGE8feYg  提取码：k5g6 
 
@@ -26,6 +25,15 @@ B站介绍：https://www.bilibili.com/video/BV19M4y1E7pL
 
 
 # 更新记录
+
+## V1.5版本：2023-7-8
+
+1、支持批量选择源图片和目标视频/图片功能；
+
+2、支持生成视频后不删除帧；
+
+3、添加快速打开输出目录按钮。
+
 ## V1.4版本：2023-6-25
 
 1、支持保持目标视频源帧率导出；
