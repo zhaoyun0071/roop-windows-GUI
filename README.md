@@ -5,7 +5,7 @@ B站介绍：https://www.bilibili.com/video/BV19M4y1E7pL
 
  ![image](https://github.com/zhaoyun0071/roop-win-GUI/blob/main/ui.png)
 
-基于 https://github.com/s0md3v/roop。
+基于 https://github.com/s0md3v/roop
 
 # V1.5下载
 
