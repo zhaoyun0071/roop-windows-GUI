@@ -6,9 +6,10 @@
  ![image](https://github.com/zhaoyun0071/roop-win-GUI/blob/main/ui2.png)
 
 
-# win10、win11 V4.7
-夸克网盘链接：https://pan.quark.cn/s/7083585e2c79 
-提取码：kiK9
+# win10、win11 V5.5
+链接：https://pan.quark.cn/s/e1dd6b1e43c7 
+提取码：dnsV
+
 
 # mac苹果电脑版V4.2
 夸克网盘：https://pan.quark.cn/s/dfb054f98a13   提取码：yEfK
