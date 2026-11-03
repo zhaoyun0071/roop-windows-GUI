@@ -4,12 +4,10 @@
 
 
 # win10、win11 V8.7
-pan.quark.cn/s/e1fdc6bbf5ac
+https://pan.quark.cn/s/e1fdc6bbf5ac
 提取码：1uCZ
 
 
-# mac苹果电脑版V4.2
-夸克网盘：https://pan.quark.cn/s/dfb054f98a13   提取码：yEfK
 
 # 三、更新记录
 软件基于开源的项目rope、facefusion\visomaster。
