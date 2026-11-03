@@ -1,14 +1,11 @@
 # roop-win-GUI
 什么环境不用配置，解压直接用的roop、rope换脸工具
 
-# B站介绍：[https://www.bilibili.com/video/BV19M4y1E7pL](https://www.bilibili.com/video/BV1YF4m177SN)
-
- ![image](https://github.com/zhaoyun0071/roop-win-GUI/blob/main/ui2.png)
 
 
-# win10、win11 V8.2
-https://pan.quark.cn/s/597fb23803e8
-提取码：jAPd
+# win10、win11 V8.7
+pan.quark.cn/s/e1fdc6bbf5ac
+提取码：1uCZ
 
 
 # mac苹果电脑版V4.2
